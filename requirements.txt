@@ -1,0 +1,9 @@
+streamlit
+pandas
+joblib
+plotly
+streamlit-echarts
+numpy
+reportlab
+matplotlib
+seaborn
